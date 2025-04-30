@@ -1,0 +1,23 @@
+{
+  "name": "practice-redgreenrefactor-d-holmes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dholmes5247/practice-redGreenRefactor-D-Holmes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dholmes5247/practice-redGreenRefactor-D-Holmes/issues"
+  },
+  "homepage": "https://github.com/dholmes5247/practice-redGreenRefactor-D-Holmes#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
